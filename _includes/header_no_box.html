@@ -1,0 +1,7 @@
+{% if page.author %} {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %} {% endif %}
+
+<div class="table cover_small">
+	<div class="cover-card table-cell table-bottom">
+	  <a href="{{ site.url }}/" class="author_name">{{ author.name }}</a>
+	</div>
+</div>
