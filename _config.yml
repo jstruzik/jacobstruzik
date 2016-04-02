@@ -1,0 +1,66 @@
+#
+###################################
+# Site wide configuration
+####################################
+#
+title:       "Jacob Struzik"
+description: 'Personal site about development discoveries, API architecture, hardware hacking, eSports, and nonsense.'
+url:         'https://jacobstruzik.com'
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          America/New_York
+markdown:          kramdown
+highlighter:       pygments
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
+
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  toc_levels:     1..6
+  enable_coderay: false
+
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: Jacob Struzik
+  avatar: avatar.jpg
+  job: "Hardware Tinkerer - Beer Lover - API Builder"
+  bio: "Personal site about development discoveries, API architecture, hardware hacking, eSports, and nonsense. <p>Works <a href=\"https://robinpowered.com\">@Robin</a></p>"
+  email: jacobstruzik@gmail.com
+  disqus-shortname: jacobstruzik
+  twitter: jstruzik #username
+  facebook: #username
+  google:
+    plus: #username
+    analytics: UA-75815475-1
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: jstruzik #username
+  stackoverflow: 873123/deslok
+  linkedin: jstruzik
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
