@@ -25,7 +25,7 @@ kramdown:
   toc_levels:     1..6
   enable_coderay: false
 
-exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile']
 
 #
 ###################################
