@@ -11,6 +11,7 @@ before_script:
 script: "./script/cibuild.sh"
 
 before_install:
+  - gem uninstall bundler
   - gem install bundler -v 1.10.6
 
 env:
