@@ -53,7 +53,7 @@ GEM
     nokogiri (1.6.7.2-x64-mingw32)
       mini_portile2 (~> 2.0.0.rc2)
     parallel (1.8.0)
-    puma (3.2.0)
+    puma (3.3.0)
     rack (1.6.4)
     rack-contrib (1.4.0)
       git-version-bump (~> 0.15)
@@ -91,4 +91,4 @@ DEPENDENCIES
   s3_website
 
 BUNDLED WITH
-   1.11.2
+   1.10.6
