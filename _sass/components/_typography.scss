@@ -81,7 +81,10 @@ hr {
 // Text Styles
 //
 
-em { font-style: italic; }
+em { 
+  font-style: italic;
+  display: block;
+}
 
 strong { font-weight: 600; }
 

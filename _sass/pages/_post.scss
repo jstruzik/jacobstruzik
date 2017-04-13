@@ -26,6 +26,7 @@
   @extend .post-listing;
   padding: 25px 20px 0;
   height: 100%;
+  width: 50%;
 }
 
 .image-credit {
@@ -94,14 +95,12 @@ a.read-more {
 
 #post {
   padding-bottom: 50px;
+  font-size: 1.3em;
   .post-header {
     margin: 0 auto 50px;
   }
 }
 
-#post h1 {
-  margin: 0.5em 0 1em;
-}
 #post h2 {
   margin: 2em 0 0.8em;
   padding-bottom: 0.7em;
@@ -110,6 +109,12 @@ a.read-more {
 #post h3 {
   margin: 1.75em 0 1.2em;
   position: relative;
+}
+
+#post ul { 
+  li {
+    padding-bottom: 10px;
+  }
 }
 
 #page {

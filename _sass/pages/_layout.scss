@@ -49,9 +49,6 @@
   .author_bio {
     padding-top: 10px;
     display: block;
-    p {
-
-    }
   }
   @include media-query($medium-screen) {
     text-align: center;
