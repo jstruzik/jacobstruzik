@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "How to Build a Shelf that won't Fall Apart"
+title: "How to Build a Shelf That Won't Fall Apart"
 excerpt: "Taking my hands off the keyboard ot see what else they're capable of."
 categories: DIY
 tags: [DIY, shelf, random]
 date: 2017-04-12T15:00:00-08:00
 comments: true
+header_image: http://i.imgur.com/RwSVBU5.jpg
 ---
 
 _This story is about one man's journey to create a shelf that would hold all of the random crap in his closet for the past year._
