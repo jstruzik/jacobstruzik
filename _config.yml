@@ -38,8 +38,8 @@ exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefil
 owner:
   name: Jacob Struzik
   avatar: avatar.jpg
-  job: "Hardware Tinkerer - Beer Lover - API Builder"
-  bio: "Personal site about development discoveries, API architecture, hardware hacking, eSports, and nonsense. <p>Works <a href=\"https://robinpowered.com\">@Robin</a></p>"
+  job: "Hardware Tinkerer - Pro Dodgeball Player - API Builder"
+  bio: "Personal site about development discoveries, API architecture, hardware hacking, eSports, and nonsense. <p>Engineering Manager <a href=\"https://robinpowered.com\">@Robin</a></p>"
   email: jacobstruzik@gmail.com
   disqus-shortname: jacobstruzik
   twitter: jstruzik #username
